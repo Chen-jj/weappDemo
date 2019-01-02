@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <A prop-a="{{propA}}" bindupdate="onUpdate"></A>
+</view>
